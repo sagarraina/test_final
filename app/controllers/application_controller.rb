@@ -4,6 +4,6 @@ class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
 
 def hello_saga
-@var="hell"
+@var="hello"
 end
 end
