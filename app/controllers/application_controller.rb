@@ -7,4 +7,7 @@ def hello_saga
 @var="he"
 @var="hello"
 end
+def hello_s
+@test=""
+end
 end
